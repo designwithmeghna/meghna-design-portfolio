@@ -10,7 +10,7 @@ export default function HomeIntro() {
         Hi 👋🏼! <br /> I am Meghna Aggarwal!
       </h1>
       <h2 className="text-xl lg:text-3xl p-2 border-gray-200 shadow-md">
-        <span className="font-semibold text-4xl">UI/UX Designer,</span>{" "}
+        <span className="font-semibold text-4xl">UX/UI Designer,</span>{" "}
         currently based in{" "}
         <span className="font-semibold text-4xl">Canada 🇨🇦</span>
       </h2>

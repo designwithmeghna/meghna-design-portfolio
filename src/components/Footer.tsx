@@ -67,12 +67,12 @@ const Footer = () => {
                 </li>
                 <li className="mb-4">
                   <a
-                    href="https://www.behance.net/meghnaaggarwal"
+                    href="https://www.instagram.com/desk4doodle/"
                     target="_blank"
                     rel="noreferrer"
                     className="hover:underline"
                   >
-                    Behance
+                    Desk4Doodle
                   </a>
                 </li>
               </ul>
